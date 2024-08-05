@@ -1,0 +1,2 @@
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\ConsoleAppAssignment1-6\ConsoleAppAssignment1-6\obj\Debug\ConsoleAppAssignment1-6.csproj.AssemblyReference.cache
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\ConsoleAppAssignment1-6\ConsoleAppAssignment1-6\obj\Debug\ConsoleAppAssignment1-6.csproj.CoreCompileInputs.cache
