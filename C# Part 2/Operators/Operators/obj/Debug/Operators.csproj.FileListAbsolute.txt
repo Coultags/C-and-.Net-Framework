@@ -1,0 +1,7 @@
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\Operators\Operators\obj\Debug\Operators.pdb

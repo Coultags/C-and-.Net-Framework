@@ -1,0 +1,7 @@
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\TwentyOne.2\TwentyOne.2\obj\Debug\TwentyOne.2.csproj.AssemblyReference.cache
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\TwentyOne.2\TwentyOne.2\obj\Debug\TwentyOne.2.csproj.CoreCompileInputs.cache
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\TwentyOne.2\TwentyOne.2\bin\Debug\TwentyOne.2.exe.config
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\TwentyOne.2\TwentyOne.2\bin\Debug\TwentyOne.2.exe
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\TwentyOne.2\TwentyOne.2\bin\Debug\TwentyOne.2.pdb
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\TwentyOne.2\TwentyOne.2\obj\Debug\TwentyOne.2.exe
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\TwentyOne.2\TwentyOne.2\obj\Debug\TwentyOne.2.pdb
