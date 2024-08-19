@@ -1,4 +1,0 @@
-C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\StudentDB\StudentDB\obj\Debug\netcoreapp3.1\StudentDB.csproj.AssemblyReference.cache
-C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\StudentDB\StudentDB\obj\Debug\netcoreapp3.1\StudentDB.AssemblyInfoInputs.cache
-C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\StudentDB\StudentDB\obj\Debug\netcoreapp3.1\StudentDB.AssemblyInfo.cs
-C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\C# Part 2\StudentDB\StudentDB\obj\Debug\netcoreapp3.1\StudentDB.csproj.CoreCompileInputs.cache
