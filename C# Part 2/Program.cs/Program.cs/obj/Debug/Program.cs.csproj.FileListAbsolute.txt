@@ -1,0 +1,7 @@
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\Program.cs\Program.cs\bin\Debug\Program.cs.exe.config
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\Program.cs\Program.cs\bin\Debug\Program.cs.exe
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\Program.cs\Program.cs\bin\Debug\Program.cs.pdb
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\Program.cs\Program.cs\obj\Debug\Program.cs.csproj.AssemblyReference.cache
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\Program.cs\Program.cs\obj\Debug\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\Program.cs\Program.cs\obj\Debug\Program.cs.exe
+C:\Users\coult\OneDrive\Desktop\Basic_C#_Programs\Program.cs\Program.cs\obj\Debug\Program.cs.pdb
